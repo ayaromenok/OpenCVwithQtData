@@ -1,0 +1,2 @@
+# OpenCVwithQtData
+data for OpenCVwithQtExamples
